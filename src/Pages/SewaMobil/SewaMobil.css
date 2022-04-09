@@ -1,0 +1,75 @@
+.backgroundpage
+{
+    width: 100%;
+    height: 55%;
+    background-color: #F1F3FF;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.isi
+{
+    padding-top: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 300px;
+}
+
+.bg-car
+{
+    flex: 1;
+    flex-direction: row;
+    padding-top: 50px;
+}
+
+.text
+{
+    padding-right: 150px ;
+}
+
+
+.search
+{
+    border: 1px solid;
+    margin-left: 450px;
+    height: 106px;
+    width: 1047px;
+    left: 196px;
+    top: 458px;
+    border-radius: 8px;
+    background-color: white;
+}
+
+form 
+{
+    width: 350px;
+}
+
+input[type=text], input[type=password] 
+{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.kotaksearch
+{
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+}
+
+.container
+{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    padding: ;
+}
