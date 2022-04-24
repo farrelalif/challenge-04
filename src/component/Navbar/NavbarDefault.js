@@ -1,8 +1,8 @@
 import React from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Container, Nav, Navbar } from 'react-bootstrap';
-import logo from '../../../Img/logo.png';
-import registerbutton from '../../../Img/Button.png';
+import logo from '../../Img/logo.png';
+import registerbutton from '../../Img/Button.png';
 
 export const NavbarDefault = () => {
   return (
